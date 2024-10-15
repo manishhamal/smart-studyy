@@ -1,0 +1,261 @@
+[
+  {
+    "sem": "First Semester",
+    "slug": "first-semester",
+    "subjectList": [
+      {
+        "name": "Foundation of Information Technology",
+        "code": "FIT101",
+        "detail": "This course covers the basic concepts and tools related to information technology, including hardware, software, and networking."
+      },
+      {
+        "name": "C Programming",
+        "code": "CPT102",
+        "detail": "An introductory course to C programming language focusing on basic syntax, data structures, and algorithm development."
+      },
+      {
+        "name": "Foundation of Business Management",
+        "code": "FBM103",
+        "detail": "This course introduces the fundamental concepts of business management, including planning, organization, leadership, and control."
+      },
+      {
+        "name": "Basic Mathematics",
+        "code": "MAT104",
+        "detail": "The course focuses on basic mathematical concepts such as algebra, calculus, and probability, essential for business and IT students."
+      },
+      {
+        "name": "Digital Logic",
+        "code": "DLG105",
+        "detail": "This course covers the principles of digital logic design, including binary systems, Boolean algebra, and logic gates."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Second Semester",
+    "slug": "second-semester",
+    "subjectList": [
+      {
+        "name": "Object-Oriented Programming",
+        "code": "OOP201",
+        "detail": "Introduction to object-oriented programming concepts such as classes, objects, inheritance, and polymorphism using Java or C++."
+      },
+      {
+        "name": "Microeconomics",
+        "code": "ECO202",
+        "detail": "This course explores the behavior of individuals and firms in making decisions regarding the allocation of resources."
+      },
+      {
+        "name": "Discrete Mathematics",
+        "code": "DM203",
+        "detail": "The course focuses on mathematical structures such as sets, relations, functions, graphs, and combinatorics relevant to computer science."
+      },
+      {
+        "name": "Web Programming",
+        "code": "WP204",
+        "detail": "An introduction to web technologies, including HTML, CSS, and JavaScript, to develop dynamic websites."
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "code": "DSA205",
+        "detail": "Covers fundamental data structures such as arrays, linked lists, stacks, and queues, and algorithm design and analysis."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Third Semester",
+    "slug": "third-semester",
+    "subjectList": [
+      {
+        "name": "Database Management System",
+        "code": "DBMS301",
+        "detail": "Introduction to database design, SQL, normalization, and database management principles."
+      },
+      {
+        "name": "Financial Accounting",
+        "code": "ACC302",
+        "detail": "This course introduces basic accounting principles and practices essential for managing financial information in businesses."
+      },
+      {
+        "name": "Computer Networks",
+        "code": "CN303",
+        "detail": "Covers the fundamental concepts of networking, including network protocols, architectures, and security."
+      },
+      {
+        "name": "Management Information Systems",
+        "code": "MIS304",
+        "detail": "Explores how businesses use information systems to improve efficiency and decision-making."
+      },
+      {
+        "name": "Software Engineering",
+        "code": "SE305",
+        "detail": "Introduction to software development methodologies, project management, and best practices in software engineering."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Fourth Semester",
+    "slug": "fourth-semester",
+    "subjectList": [
+      {
+        "name": "Operating Systems",
+        "code": "OS401",
+        "detail": "Study of operating system principles, including process management, memory management, file systems, and security."
+      },
+      {
+        "name": "Business Communication",
+        "code": "BC402",
+        "detail": "Develops skills in business writing, presentations, and communication strategies in a corporate environment."
+      },
+      {
+        "name": "Statistics",
+        "code": "STA403",
+        "detail": "Introduction to statistical concepts and methods for analyzing data, including probability, distribution, and hypothesis testing."
+      },
+      {
+        "name": "IT Entrepreneurship",
+        "code": "ITE404",
+        "detail": "Explores entrepreneurial strategies, business plan development, and opportunities in the IT industry."
+      },
+      {
+        "name": "Advanced Java Programming",
+        "code": "AJP405",
+        "detail": "Focuses on advanced Java programming concepts such as multithreading, networking, and database integration."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Fifth Semester",
+    "slug": "fifth-semester",
+    "subjectList": [
+      {
+        "name": "Artificial Intelligence",
+        "code": "AI501",
+        "detail": "Introduction to AI concepts such as machine learning, neural networks, natural language processing, and expert systems."
+      },
+      {
+        "name": "E-Commerce",
+        "code": "EC502",
+        "detail": "Covers the principles and practices of conducting business electronically, including online marketing, payment systems, and security."
+      },
+      {
+        "name": "System Analysis and Design",
+        "code": "SAD503",
+        "detail": "Focuses on analyzing business needs and designing information systems solutions."
+      },
+      {
+        "name": "Mobile Application Development",
+        "code": "MAD504",
+        "detail": "Covers the development of mobile applications using platforms like Android or iOS, focusing on UI/UX design and backend integration."
+      },
+      {
+        "name": "Ethics and Cyber Law",
+        "code": "ECL505",
+        "detail": "Explores the ethical issues related to technology and the legal aspects of cybersecurity and digital privacy."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Sixth Semester",
+    "slug": "sixth-semester",
+    "subjectList": [
+      {
+        "name": "Data Mining",
+        "code": "DM601",
+        "detail": "Covers the concepts of data mining, including classification, clustering, and association analysis in large datasets."
+      },
+      {
+        "name": "Enterprise Resource Planning",
+        "code": "ERP602",
+        "detail": "Introduction to ERP systems and how they integrate business processes, covering both functional and technical perspectives."
+      },
+      {
+        "name": "Network Security",
+        "code": "NS603",
+        "detail": "Focuses on security protocols, encryption techniques, and methods for securing networks and protecting against cyber threats."
+      },
+      {
+        "name": "Cloud Computing",
+        "code": "CC604",
+        "detail": "Introduction to cloud computing models, architectures, and services like IaaS, PaaS, and SaaS."
+      },
+      {
+        "name": "Digital Marketing",
+        "code": "DM605",
+        "detail": "Explores strategies and tools used in digital marketing, including SEO, social media marketing, and email marketing."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Seventh Semester",
+    "slug": "seventh-semester",
+    "subjectList": [
+      {
+        "name": "Big Data Analytics",
+        "code": "BDA701",
+        "detail": "Introduction to big data technologies, including Hadoop, Spark, and NoSQL databases for analyzing large-scale datasets."
+      },
+      {
+        "name": "Business Intelligence",
+        "code": "BI702",
+        "detail": "Covers the tools and techniques for data analysis, reporting, and decision-making in businesses."
+      },
+      {
+        "name": "Project Management",
+        "code": "PM703",
+        "detail": "Focuses on managing IT projects, covering project life cycles, risk management, and resource allocation."
+      },
+      {
+        "name": "Information Systems Strategy",
+        "code": "ISS704",
+        "detail": "Explores the strategic role of information systems in organizations, aligning IT with business goals."
+      },
+      {
+        "name": "Elective I",
+        "code": "ELE705",
+        "detail": "Elective course based on students' choice, offering advanced topics in IT or business management."
+      }
+    ],
+    "sub": "5 Subjects",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Eighth Semester",
+    "slug": "eighth-semester",
+    "subjectList": [
+      {
+        "name": "Capstone Project",
+        "code": "CP801",
+        "detail": "Students undertake a comprehensive project that integrates their knowledge across various IT and business domains."
+      },
+      {
+        "name": "Cybersecurity",
+        "code": "CS802",
+        "detail": "Covers advanced topics in cybersecurity, including intrusion detection, incident response, and advanced cryptography."
+      },
+      {
+        "name": "Elective II",
+        "code": "ELE803",
+        "detail": "Second elective course offering advanced topics in IT or business management."
+      },
+      {
+        "name": "Strategic Management",
+        "code": "SM804",
+        "detail": "Focuses on strategy formulation and implementation within businesses, integrating various functional areas."
+      }
+    ],
+    "sub": "4 Subjects",
+    "icon": "FaBook"
+  }
+]
